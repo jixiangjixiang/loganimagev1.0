@@ -1,0 +1,9 @@
+.img{width:950px;top:0px;left:0px;min-height: 500px }
+a{text-decoration:none;height: 20px}
+.clickedMenu a{color: rgb(220,220,220);text-decoration:none;font-size: 14px;}
+.clickedMenu a:hover{text-decoration:none;color: rgb(0,0,0);}
+.clickedMenu{display:block;margin-top: 8px;}
+
+.menu a{color: rgb(0,0,0);text-decoration:none;font-size: 14px;}
+.menu a:hover{text-decoration:none;color: rgb(220,220,220);}
+.menu{display:block;margin-top: 8px;}

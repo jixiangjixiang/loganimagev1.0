@@ -1,0 +1,11 @@
+*{margin:0;padding:0;}
+body{font-family:ËÎÌו;font-size:14px;background:rgb(250,250,250);}
+img{border:0;}
+a{text-decoration:none;height:100%;width:164px;}
+ul li{list-style:none;}
+#page{width:1128px;height:100%;margin:0 auto;}
+#logo{margin-left:200px;margin-top:40px;}
+#left{width:164px;position:fixed;}
+#content{width:1128px;height:100%;margin-bottom:50px}
+.leftimg{padding-top:5px;}
+.img{width:950px;margin-left:175px;top:0px;left:0px;min-height: 500px }
